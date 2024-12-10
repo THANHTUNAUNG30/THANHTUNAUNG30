@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @THANHTUNAUNG30
 - 👀 I’m interested in learning about new technology
-- 🌱 I’m currently learning react & node.js
+- 🌱 I’m currently learning React & Node.js
 - 📫 How to reach me thanhtunaung071@gmail.com
 - ⚡ Fun fact: ...
 
