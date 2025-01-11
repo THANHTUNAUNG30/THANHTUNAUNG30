@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @THANHTUNAUNG30
+- 👋 Hi, I’m Than Htun Aung
 - 👀 I’m interested in learning about new technology
 - 🌱 I’m currently learning React & Node.js
 - 📫 How to reach me thanhtunaung3011@gmail.com
